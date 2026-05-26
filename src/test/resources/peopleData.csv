@@ -1,0 +1,4 @@
+name1,age1,name2,age2,expected
+John,20,Mary,25,-1
+Mary,30,John,20,1
+Ana,40,Ana,40,0
